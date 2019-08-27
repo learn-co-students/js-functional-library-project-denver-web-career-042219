@@ -5,6 +5,7 @@ const fi = (function() {
     },
 
     each: function() {
+      blah blah test test
 
     },
 
