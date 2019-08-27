@@ -7,6 +7,8 @@ const fi = (function() {
     each: function() {
       blah blah test test
 
+      yeah yeah test test again
+
     },
 
     map: function() {
